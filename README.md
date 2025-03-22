@@ -13,27 +13,11 @@ This project is a machine learning application designed to classify the health s
 
 -   **Python:** The primary programming language.
 -   **Pytorch:** For building and training the deep learning model.
--   **OpenCV:** For image processing.
+-   **PIL:** For image processing.
 -   **Gradio:** For creating the web application interface.
--   **Other Libraries:** NumPy, Pandas, Matplotlib, etc.
 
-## Setup and Installation
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/mango-leaf-classifier.git
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd mango-leaf-classifier
-    ```
-3.  **Install the required packages:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. **Run the application**
-    ```bash
-    streamlit run app.py
+
     ```
 
 ## Usage
