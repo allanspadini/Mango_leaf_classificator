@@ -50,7 +50,7 @@ def main():
         title="Classificação de Folhas de Manga",
         description="Faça o upload de uma imagem de folha de manga e receba a previsão do modelo."
     )
-    interface.launch(share=True, pwa=True,server_port=8080)
+    interface.launch()
 
 if __name__ == "__main__":
     main()
