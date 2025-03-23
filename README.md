@@ -17,9 +17,6 @@ This project is a machine learning application designed to classify the health s
 -   **Gradio:** For creating the web application interface.
 
 
-
-    ```
-
 ## Usage
 
 1.  **Upload an image:** Use the web interface to upload an image of a mango leaf.
